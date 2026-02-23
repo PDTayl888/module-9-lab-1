@@ -41,7 +41,6 @@ function App() {
       </AlertBox>)}
 
       <UserProfileCard user= {tempUser} showEmail={true}>
-        Card1
       </UserProfileCard>
 
       <ProductDisplay
